@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-25)
+## Unreleased (2024-12-01)
 
 <section class="features">
 
@@ -34,7 +34,7 @@ This release closes the following issue:
 
 <details>
 
--   [`cb27ec4`](https://github.com/stdlib-js/stdlib/commit/cb27ec42bd7e65c46877e57064d36ff9b38b502b) - **feat:** add `array/base/mskbinary4d` [(#3196)](https://github.com/stdlib-js/stdlib/pull/3196) _(by Abhijit, Athan Reines)_
+-   [`cb27ec4`](https://github.com/stdlib-js/stdlib/commit/cb27ec42bd7e65c46877e57064d36ff9b38b502b) - **feat:** add `array/base/mskbinary4d` [(#3196)](https://github.com/stdlib-js/stdlib/pull/3196) _(by Abhijit Raut, Athan Reines)_
 
 </details>
 
@@ -48,7 +48,7 @@ This release closes the following issue:
 
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   Abhijit
+-   Abhijit Raut
 -   Athan Reines
 
 </section>
