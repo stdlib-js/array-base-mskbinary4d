@@ -1,0 +1,3 @@
+// Copyright (c) 2024 The Stdlib Authors. License is Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0
+var e,f;e=this,f=function(){"use strict";return function(e,f,o){var n,i,t,r,d,s,u,l,a,p,c,y,b,m,h,g,v,x,T,j,k,q,w,z;if(n=f[3],i=f[2],t=f[1],r=f[0],!(n<=0||i<=0||t<=0||r<=0))for(k=e[0],q=e[1],z=e[2],w=e[3],l=0;l<r;l++)for(c=k[l],m=q[l],v=w[l],j=z[l],u=0;u<t;u++)for(p=c[u],b=m[u],g=v[u],T=j[u],s=0;s<i;s++)for(a=p[s],y=b[s],h=g[s],x=T[s],d=0;d<n;d++)0===x[d]&&(h[d]=o(a[d],y[d]))}},"object"==typeof exports&&"undefined"!=typeof module?module.exports=f():"function"==typeof define&&define.amd?define(f):(e="undefined"!=typeof globalThis?globalThis:e||self).mskbinary4d=f();
+//# sourceMappingURL=browser.js.map
