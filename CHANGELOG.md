@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-03)
+## Unreleased (2025-02-08)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`836170d`](https://github.com/stdlib-js/stdlib/commit/836170decec14309639deb41ae3a3c22256d68af) - **refactor:** update paths _(by gururaj1512)_
 -   [`cb27ec4`](https://github.com/stdlib-js/stdlib/commit/cb27ec42bd7e65c46877e57064d36ff9b38b502b) - **feat:** add `array/base/mskbinary4d` [(#3196)](https://github.com/stdlib-js/stdlib/pull/3196) _(by Abhijit Raut, Athan Reines)_
 
 </details>
@@ -46,10 +47,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Abhijit Raut
 -   Athan Reines
+-   gururaj1512
 
 </section>
 
